@@ -1,4 +1,4 @@
-# Simple IP Loopkup Script Using https://ipstack.com/ API
+# Simple IP Loopkup Using https://ipstack.com/ API
 
 import requests, os, time, json
 
