@@ -1,6 +1,6 @@
 # Simple IP Loopkup Script Using https://ipstack.com/ API
 
-import requests, os, time, json, sys
+import requests, os, time, json
 
 red = '\033[31m'
 white = '\033[37m'
